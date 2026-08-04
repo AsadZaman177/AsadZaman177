@@ -69,7 +69,7 @@ Available for freelance and long-term project work — if you're looking to hire
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsadZaman177&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadZaman177&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=AsadZaman177&hide_border=true" height="165" />
 </p>
 
 ---
